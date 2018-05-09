@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* --------- main styling --------- */
+
+body{
+	background:#ccc;		/* color */
+}
+
+/* all */
+
+.container{
+	margin:auto auto;
+}
+
+/* main modul */
+
+.insert-DBJSA{
+	resize: none; 
+	height:150px
+}
+.action-buttons-group{
+	width:100%
+}
+.li mark, button, li span, .btn{
+	cursor:pointer;
+}
+h3{
+	text-align:center;
+}
+.callback *, td{
+	padding: 5px;
+	border: 3px #000 solid;		/* color */
+}
+/* menu */
+.menu .connect-form *{
+	display:block;
+}
+.menu-DBJSA{
+	background:inherit;
+	border:inherit;
+}
